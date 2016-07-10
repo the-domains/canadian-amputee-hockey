@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Canadian Amputee Hockey]]></title>
         <description><![CDATA[Canadian Amputee Hockey]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/canadian-amputee-hockey/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 18:43:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jul 2016 18:43:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/canadian-amputee-hockey/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28aba66e-ab49-44dc-b5d7-f1826413d35d.jpg">]]></description>
+            <link>https://thegrid.ai/canadian-amputee-hockey/bc637de7-d131-4573-bfe9-55b9e68be836/index.html</link>
+            <guid isPermaLink="false">bc637de7-d131-4573-bfe9-55b9e68be836</guid>
+            <pubDate>Sun, 10 Jul 2016 18:43:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d0c3466-86f2-4b66-b11d-6ee90cf9c0ec.jpg">]]></description>
-            <link>undefined51d46a77-1c0c-4cac-a969-c10c9bde7c8d/index.html</link>
+            <link>https://thegrid.ai/canadian-amputee-hockey/51d46a77-1c0c-4cac-a969-c10c9bde7c8d/index.html</link>
             <guid isPermaLink="false">51d46a77-1c0c-4cac-a969-c10c9bde7c8d</guid>
             <pubDate>Sun, 10 Jul 2016 18:43:18 GMT</pubDate>
         </item>
