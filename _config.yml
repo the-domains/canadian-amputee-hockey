@@ -1,16 +1,16 @@
-layout_spectrum: 0.18852645601145923
-typography_spectrum: 0.06610403372906148
+layout_spectrum: 0.36777046881616116
+typography_spectrum: 0.8586215260438621
 color:
-  brandStrength: 0.8542397296987474
-  lightness: 0.8353462461382151
-  saturation: 0.45860554883256555
-  rhythmicContrast: 0.840209319954738
+  brandStrength: 0.8766193485353142
+  lightness: 0.6485077380202711
+  saturation: 0.6697658286429942
+  rhythmicContrast: 0.8435389180667698
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: Canadian Amputee Hockey
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/17a3708f-0a67-4ba4-824a-7885eefe3529.png
